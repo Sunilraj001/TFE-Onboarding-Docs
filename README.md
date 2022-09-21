@@ -1,2 +1,2 @@
 # TFE-Onboarding
-Content from the Vault Enterprise Onboarding Program
+Content from the Terraform Enterprise Onboarding Program
